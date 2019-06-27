@@ -102,6 +102,7 @@
         - wazo-tox-py27:
             nodeset: runc-debian-stretch
 
+
 - project-template:
     name: wazo-tox-integration
     description: Project template for tox -e integration
