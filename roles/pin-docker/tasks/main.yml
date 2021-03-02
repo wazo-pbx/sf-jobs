@@ -1,7 +1,0 @@
-- name: Downgrade docker packages
-  apt:
-    state: present
-    name:
-      - docker-ce=5:20.10.3~3-0~debian-buster
-      - docker-ce-cli=5:20.10.3~3-0~debian-buster
-      

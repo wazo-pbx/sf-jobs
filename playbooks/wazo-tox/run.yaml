@@ -1,5 +1,4 @@
 - hosts: all
   roles:
-      - pin-docker
       - revoke-sudo
       - wazo-tox
